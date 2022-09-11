@@ -1,6 +1,6 @@
 const game = document.getElementById("game");
 
-let images = ["1", "2", "3", "4", "5", "6"];
+let images = ["1", "2", "3"];
 
 function createCard(src) {
 	const card = document.createElement("div");
