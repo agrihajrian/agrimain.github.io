@@ -1,6 +1,6 @@
 const game = document.getElementById("game");
 
-let images = ["boy", "businesswoman", "girl", "maid", "prisoner", "traveller"];
+let images = ["1", "2", "3", "4", "5", "6"];
 
 function createCard(src) {
 	const card = document.createElement("div");
@@ -14,13 +14,13 @@ function createCard(src) {
 function start() {
 	images = images.sort(() => Math.random() - 0.5);
 	images.forEach((img) => {
-		const card = createCard(`images/${img}.png`);
+		const card = createCard(`images/${img}.jpeg`);
 		game.appendChild(card);
 	});
 
 	images = images.sort(() => Math.random() - 0.5);
 	images.forEach((img) => {
-		const card = createCard(`images/${img}.png`);
+		const card = createCard(`images/${img}.jpeg`);
 		game.appendChild(card);
 	});
 	main();
