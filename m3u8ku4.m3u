@@ -188,7 +188,7 @@ https://av-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd|User-
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz||R{SSM}|
-#EXTINF:-1 group-title="TV Nasional Indonesia" tvg-logo="https://raw.githubusercontent.com/agrihajrian/agrihajrian.github.io/main/MNCSPorts.png",MNC Sports 1
+#EXTINF:-1 group-title="TV Nasional Indonesia" tvg-logo="https://raw.githubusercontent.com/agrihajrian/agrihajrian.github.io/main/MNCSports.png",MNC Sports 1
 https://av-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd|User-agent=usermanifest
 
 #KODIPROP:inputstream=inputstream.adaptive
@@ -196,7 +196,7 @@ https://av-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz||R{SSM}|
-#EXTINF:-1 group-title="TV Nasional Indonesia" tvg-logo="https://raw.githubusercontent.com/agrihajrian/agrihajrian.github.io/main/MNCSPorts2.png",MNC Sports 2
+#EXTINF:-1 group-title="TV Nasional Indonesia" tvg-logo="https://raw.githubusercontent.com/agrihajrian/agrihajrian.github.io/main/MNCSports2.png",MNC Sports 2
 https://av-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd|User-agent=usermanifest
 
 #KODIPROP:inputstream=inputstream.adaptive
@@ -301,8 +301,11 @@ https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 #EXTINF:-1 tvg-id="013" tvg-name="" tvg-country="MY" tvg-language="Malay" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwTvuvf0OVmUwZhsfxP10i0l1Bhn2j3cQ0Ow&usqp=CAU" group-title="Malaysia",Astro Awani
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 
-#EXTINF:-1 tvg-id="013" tvg-name="" tvg-country="id" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/agrihajrian/agrihajrian.github.io/main/Qatar.webp" group-title="World Cup",World Cup 2022
-https://liveb.alkassdigital.net/hls/live/2094545/Alkass1ns/master1080.m3u8
+#EXTINF:-1 tvg-id="013" tvg-name="" tvg-country="id" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/agrihajrian/agrihajrian.github.io/main/Qatar.png" group-title="World Cup",World Cup 2022
+https://liveb.alkassdigital.net/hls/live/2094545/Alkass1ns/master720.m3u8
+
+#EXTINF:-1 tvg-id="013" tvg-name="" tvg-country="id" tvg-language="Indonesia" tvg-logo="https://raw.githubusercontent.com/agrihajrian/agrihajrian.github.io/main/Mojitv.png" group-title="Moji",Moji TV
+https://etslive-2-vidio-com.akamaized.net/exp=1669144105~acl=/vp9/206_stream.mpd!/vp9/206/*!/vp9/*/206_stream.mpd!/vp9/*/206/*~hmac=ef6738f9636c89ea198c56c2796d55a2211c18a310440f1d49cfb5b0e31c0e99/vp9/206_stream.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
