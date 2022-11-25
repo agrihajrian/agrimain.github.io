@@ -310,11 +310,11 @@ https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 #EXTINF:-1 tvg-id="014" tvg-name="" tvg-country="id" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/agrihajrian/agrihajrian.github.io/main/Qatar.png" group-title="World Cup",World Cup (One HD)
 https://liveb.alkassdigital.net/hls/live/2094545/Alkass1ns/master720.m3u8
 
-#EXTINF:-1 tvg-id="015" tvg-name="" tvg-country="id" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/agrihajrian/agrihajrian.github.io/main/Qatar.png" group-title="World Cup 2",World Cup (beIN MAX 1)
-http://sonoiptv.xyz:8080/worldcupHYghytch/zdwAvNZYJ3/24948?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="015" tvg-name="" tvg-country="id" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/agrihajrian/agrihajrian.github.io/main/Qatar.png" group-title="World Cup 2",World Cup 1
+https://lisa.xonthebeach.net/live/bbconeuk_720p/index.m3u8
 
-#EXTINF:-1 tvg-id="017" tvg-name="" tvg-country="id" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/agrihajrian/agrihajrian.github.io/main/Qatar.png" group-title="World Cup 3",World Cup (beIN MAX 2)
-http://sonoiptv.xyz:8080/worldcupHYghytch/zdwAvNZYJ3/24949?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="017" tvg-name="" tvg-country="id" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/agrihajrian/agrihajrian.github.io/main/Qatar.png" group-title="World Cup 3",World Cup 2
+https://wswanata.azureedge.net/live/FS1/chunks.m3u8
 
 #EXTINF:-1 tvg-id="016" tvg-name="" tvg-country="id" tvg-language="Indonesia" tvg-logo="https://raw.githubusercontent.com/agrihajrian/agrihajrian.github.io/main/Mojitv.png" group-title="Moji",Moji TV
 https://etslive-2-vidio-com.akamaized.net/exp=1669144105~acl=/vp9/206_stream.mpd!/vp9/206/*!/vp9/*/206_stream.mpd!/vp9/*/206/*~hmac=ef6738f9636c89ea198c56c2796d55a2211c18a310440f1d49cfb5b0e31c0e99/vp9/206_stream.mpd
